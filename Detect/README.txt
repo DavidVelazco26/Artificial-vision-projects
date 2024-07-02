@@ -1,0 +1,1 @@
+Colocar el script dentro de la carpeta Im_faces para la detección del path
